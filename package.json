@@ -15,7 +15,7 @@
     "mysql2": "^1.6.5",
     "nodemon": "^1.19.1",
     "sequelize": "^5.8.9",
-    "sequelize-cli": "^5.4.0",
+    "sequelize-cli": "^5.5.0",
     "sequelize-mocking": "^2.0.0",
     "sinon": "^7.3.2"
   },
